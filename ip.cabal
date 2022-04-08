@@ -47,7 +47,7 @@ library
     Data.Word.Synthetic.Word12
   build-depends:
     , aeson >= 1.0 && < 2.1
-    , attoparsec >= 0.13 && < 0.14
+    , attoparsec >= 0.13 && < 0.15
     , base >= 4.9 && < 5
     , byteslice >= 0.1.2 && < 0.3
     , bytesmith >= 0.3.3 && < 0.4
